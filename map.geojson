@@ -1,1 +1,21 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"marker-color":"#7e7e7e","marker-size":"medium","marker-symbol":"","nome":"San Gregorio"},"geometry":{"type":"Point","coordinates":[9.364865720272064,39.30024314513534]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "small",
+        "marker-symbol": "",
+        "nome": "San Gregorio BAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.364865720272064,
+          39.30024314513534
+        ]
+      }
+    }
+  ]
+}
